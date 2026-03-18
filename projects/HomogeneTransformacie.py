@@ -73,3 +73,4 @@ if __name__=="__main__":
     ax.set_zlim(-1,4)
    
     plt.show()
+    
