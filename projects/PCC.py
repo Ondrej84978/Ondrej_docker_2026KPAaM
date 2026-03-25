@@ -41,9 +41,9 @@ def plot_robot(L1, L2, L3):
     
     plt.show()
     
-    if __name__=="__main__":
+if __name__=="__main__":
         
-        plot_robot(0.2, 0.2, 0.2)
-        plot_robot(0.18, 0.22, 0.2)
-        plot_robot(0.15, 0.25, 0.2)
+    plot_robot(0.2, 0.2, 0.2)
+    plot_robot(0.18, 0.22, 0.2)
+    plot_robot(0.15, 0.25, 0.2)
 
